@@ -7,7 +7,9 @@ def main():
         num2 = int(input("Enter second number: "))
     except ValueError:
         print("Error: Please enter valid numbers only!")
-        return
+        returnytrezwxdfcgvhnm
+        hbrexdcgvhbjm
+        buytrxcfgvhbjm,
 
     # Arithmetic operations
     try:
